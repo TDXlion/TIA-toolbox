@@ -1,0 +1,16 @@
+# 日志和缓存
+*.log
+logs/
+*.zip
+
+# 测试数据
+MockInstall*.ps1
+模拟安装.bat
+
+# 备份文件
+backup/
+*.reg
+
+# 系统文件
+Thumbs.db
+Desktop.ini
